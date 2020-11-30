@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dante/static/css/main.379e87fd.chunk.css",
-    "main.js": "/dante/static/js/main.16e8a54e.chunk.js",
-    "main.js.map": "/dante/static/js/main.16e8a54e.chunk.js.map",
+    "main.js": "/dante/static/js/main.34e4ee03.chunk.js",
+    "main.js.map": "/dante/static/js/main.34e4ee03.chunk.js.map",
     "runtime-main.js": "/dante/static/js/runtime-main.a109a99d.js",
     "runtime-main.js.map": "/dante/static/js/runtime-main.a109a99d.js.map",
     "static/css/2.1a02f21c.chunk.css": "/dante/static/css/2.1a02f21c.chunk.css",
@@ -30,6 +30,6 @@
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.a73c6c50.chunk.js",
     "static/css/main.379e87fd.chunk.css",
-    "static/js/main.16e8a54e.chunk.js"
+    "static/js/main.34e4ee03.chunk.js"
   ]
 }
