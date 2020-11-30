@@ -145,7 +145,7 @@ Therefore, if I abandon myself to the journey, I fear lest my coming may be foll
     <br /><br />Fun fact: Telling a story in a sonnet is less usual than discussing a topic or developing an idea. Thus, there isn't really a volta (a turn) in this sonnet, though I tried to get a little fancier in the last couplet.</div>),
  (<div>
 
- Fun fact: There are alliterations in this line.</div>),
+ Fun fact: I used the alliteration of "s" in this line.</div>),
 
 ];
 
