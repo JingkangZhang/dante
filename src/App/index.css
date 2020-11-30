@@ -1,0 +1,96 @@
+a, a:link, a:visited {
+  color: #FFFAFA;
+  text-decoration: none;
+  /* background-color: #5d7d9e; */
+}
+audio {
+  height: 54px;
+}
+b {
+  color: rgb(226, 106, 106);
+}
+
+.App {
+  background-image: url('./images/bg.jpg');
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  background-attachment: fixed;
+  overflow-y: scroll;
+  height: 100vh;
+  font-family: Georgia, serif;
+}
+
+.carousel-inner {
+  /* max-height: 600px; */
+
+}
+.topbar {
+  height: 4em;
+  background-color: #2f2f2f;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  color: aliceblue;
+  align-self: center;
+  margin-left: 20px;
+}
+
+.gallery-title {
+  color: #DDDDDD;
+  margin-bottom: 20px;
+}
+.gallery-info {
+  margin-bottom: 20px;
+  background-color: transparent !important;
+  color: #DDDDDD;
+}
+.info {
+  margin-left: 10px;
+}
+
+.authors {
+  margin-top: 5px;
+  margin-right: 20px;
+
+  display: inline-block;
+  color: antiquewhite !important;
+  text-align: right;
+}
+.carousel-container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 10px;
+  padding-top: 0;
+}
+
+.poem-container {
+  margin-top: 60px;
+
+}
+
+.poem {
+  color: whitesmoke;
+  min-width: 570px;
+  margin-bottom: 60px;
+
+}
+
+.poem-line {
+  margin-bottom: 10px;
+  /* font-family: "Didot", serif; */
+  font-size: 20px;
+
+}
+
+.curr-line {
+  color: rgb(226, 106, 106);
+}
+
+.poem-explain {
+  color: whitesmoke;
+  height: 600px;
+}
