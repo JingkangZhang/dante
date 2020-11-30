@@ -178,7 +178,7 @@ const App = () => {
         <UncontrolledCollapse toggler="#toggler1">
           <Card className="gallery-info">
             <CardBody>
-            A visualization of our sentiments from reading Inferno projected on common Berkeley scenes. Taking advantage of recent progress in neural style transfer in computer vision, we borrow a recent approach proposed by “Image Style Transfer Using Convolutional Neural Networks” (link), which takes in two images as sources for “style” and “content”, and performs synthesis of a new “target” image — in our case, “style” would be the different Inferno illustration we gathered online, also including the rendering of an Inferno-themed game, and “content” is scenery photos from various Berkeley locations. Images by Jingkang, Mandi, or from the internet. Style transfer performed by Mandi.
+            A visualization of our sentiments from reading Inferno projected on common Berkeley scenes. Taking advantage of recent progress in neural style transfer in computer vision, we borrow a recent approach proposed by “Image Style Transfer Using Convolutional Neural Networks” (<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf" target="_blank">link</a>), which takes in two images as sources for “style” and “content”, and performs synthesis of a new “target” image — in our case, “style” would be the different Inferno illustration we gathered online, also including the rendering of an Inferno-themed game, and “content” is scenery photos from various Berkeley locations. Images by Jingkang, Mandi, or from the internet. Style transfer performed by Mandi.
             </CardBody>
           </Card>
         </UncontrolledCollapse>
