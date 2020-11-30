@@ -136,10 +136,10 @@ Through this journey that you claim for him, he understood things that were the 
 
 Later the chosen Vessel went there, to bring back strengthening for that faith which is the beginning of the way of salvation. <b>But I, why come there?</b> or who grants it? I am not Aeneas, I am not Paul; <b>neither I nor others believe me worthy of that.</b>
 
-Therefore, if I abandon myself to the journey, I fear lest my coming may be folly. You are wise, you understand better than I speak." 2.10-36
+Therefore, if I abandon myself to the journey, I fear lest my coming may be folly. You are wise, you understand better than I speak." 2.10-36 I imagined Dante to have deliberately avoided talking about Beatrice because of excessive joy and excitement.
      </div>),
   (<div>Fun Fact: He didn't actually ask.</div>),
-  (<div>Fun Fact: This line and the line that rhymes with it both have eleven syllables, aka, the feminine ending. There are fewer words more feminine than "Beatrice" to be a feminine ending. </div>),
+  (<div>Fun Fact: This line and the line that rhymes with it both have eleven syllables, aka, the feminine ending. There are few words more feminine than "Beatrice" to be a feminine ending. </div>),
   (<div> Yep, "extolled" in his <em>Vita Nuova</em>. But sorry, I didn't mean to say his verses are "bland". I meant if I were Dante and had written all the poems, they'd be bland. {":)"}
 
     <br /><br />Fun fact: Telling a story in a sonnet is less usual than discussing a topic or developing an idea. Thus, there isn't really a volta (a turn) in this sonnet, though I tried to get a little fancier in the last couplet.</div>),
